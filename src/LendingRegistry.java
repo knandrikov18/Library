@@ -46,6 +46,7 @@ public class LendingRegistry {
         }
     }
     public void insertInfo(ArrayList<LendingRegistry> lendingRegistries){
+
     }
 }
 

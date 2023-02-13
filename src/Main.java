@@ -17,7 +17,7 @@ public class Main {
 
             switch (option) {
                 case 1:
-                    lendingRegistries.add(lendingRegistry);
+                    lendingRegistry.insertInfo(lendingRegistries);
                     break;
                 case 2:
                     lendingRegistry.printInfo(lendingRegistries);
